@@ -17,7 +17,7 @@
             echo "No data received.";
             exit;
         }
-        echo "Recieved Feedback"."<br>";
+        echo "--Received Feedback--"."<br>";
         echo "Full Name:".$name."<br>";
         echo "Mobile Number:".$mobile."<br>";
         echo "Emai Id:".$email."<br>";
